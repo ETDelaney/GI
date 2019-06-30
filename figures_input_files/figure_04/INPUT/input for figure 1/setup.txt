@@ -1,0 +1,22 @@
+#- Spatial domain. ------------------------------
+xmin=-4.0e6 
+xmax=4.0e6
+dx=2.5e4
+
+ymin=-2.0e6
+ymax=2.0e6
+dy=2.50e4
+
+#- Material parameters. -------------------------
+rho=3000.0
+v=3000.0
+Q=20000.0
+
+#- Spatial source distribution. -----------------
+type=line
+
+#- Natural noise source power spectrum. ---------
+natural=bandpass
+
+#- Instrument response. -------------------------
+instrument=flat

@@ -1,0 +1,7 @@
+The supplement contains the following items:
+
+(1) GI1 is a collection of Python codes that implement the Generalised Interferometry concepts. It can be used to reproduce the figures in the paper that are labelled [ER].
+
+(2) GI_documentation.pdf is a brief documentation of the GI1 code package.
+
+(3) The folder "figures_input_files" contain all the input files needed to reproduce figures labelled [ER] using the GI1 code package. 

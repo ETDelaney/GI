@@ -1,0 +1,12 @@
+#- Number of receivers. -------------------------
+Nreceivers=3
+
+#- Receiver positions. --------------------------
+x0=-2.0e6
+y0=0.0e6
+
+x1=2.0e6
+y1=0.0e6
+
+x2=-1.0e6
+y2=0.5e6

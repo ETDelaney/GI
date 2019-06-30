@@ -1,0 +1,5 @@
+#- Number of time windows. ----------------------
+1
+
+#- List of windows (left, right, cutoff width [s])
+1200.0 1450.0 100.0
